@@ -5,6 +5,6 @@ Some Description
 ## subheader
 watch tutorial on youtube
 
-
-## Local Developement
- 1.Open index.html in browser
+## Local Development
+1.open index.html in your laptop/desktop browser
+2. and then hit enter
